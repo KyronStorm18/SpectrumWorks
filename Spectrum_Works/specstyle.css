@@ -1,0 +1,66 @@
+
+.fixed-top{
+    background-color: #36499a;
+    color: white;
+}
+.navbar-toggler{
+    color: white;
+}
+.border-bottom
+{
+    color:black;
+}
+.link-danger
+{
+    text-decoration: none;
+}
+
+.footer
+{
+    background-color: #36499a;
+    color: white; 
+}
+
+body
+{
+    position: relative;
+}
+
+footer
+{
+    background-color: #36499a;
+    height:150px;
+    width:100%;
+    color: white;
+
+}
+
+footer ul{
+    color:white;
+}
+
+.nav-link{
+    color:white;
+}
+
+.nav-link:hover{
+    color:darkorange;
+}
+
+.nav-link:active
+{
+    color:darkorange;
+}
+
+
+.dropdown-item
+{
+    color:black;
+}
+.dropdown-item:focus
+{
+    color:orange;
+}
+
+
+
